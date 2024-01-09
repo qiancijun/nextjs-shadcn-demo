@@ -1,4 +1,10 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# 项目说明
+## tailwind css typography
+使用 [typography插件](https://tailwindcss.com/docs/typography-plugin) 快速的对文字进行排版。
+
+``` shell
+npm install -D @tailwindcss/typography
+```
 
 ## Getting Started
 
